@@ -1,6 +1,7 @@
 # Milo Word Cloud
 
 This app displays words in the form of characters created in the word cloud.
+
 An image like the one below will be output.
 
 ![milo](milo.png)
