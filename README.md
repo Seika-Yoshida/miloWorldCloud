@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 Below is the original image.
 ![milo original](milo_original.jpeg)
 
-Please create a mask file by blacking it out using Photoshop.
+Please create a mask file by blacking it out using Figma.
 ![milo mask](milo_mask.png)
 ## Run
 
